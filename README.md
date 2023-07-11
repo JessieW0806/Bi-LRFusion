@@ -6,4 +6,4 @@ Accecpted by CVPR 2023: Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dy
 Detailed tutorials will be updated in the near future.
 
 # acknowledge
-The work is based on mmdetection3d.
+The work is based on mmdetection3d and voxelRCNN.
